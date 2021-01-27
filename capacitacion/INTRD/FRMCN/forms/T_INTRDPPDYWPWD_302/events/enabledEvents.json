@@ -1,0 +1,30 @@
+[
+	{
+		"attributeName": "",
+		"controlId": "VA_VABUTTONXAKQGIB_126665",
+		"controlName": "VA_VABUTTONXAKQGIB_126665",
+		"controlType": "Button",
+		"customEvents": [
+			{
+				"eventName": "executeCommand",
+				"executionType": 1
+			}
+		],
+		"entityName": "CuentaOrigen",
+		"eventsType": "visualAttributeEventType"
+	},
+	{
+		"attributeName": "",
+		"controlId": "VC_TRANSFERIN_459302",
+		"controlName": "",
+		"controlType": "",
+		"customEvents": [
+			{
+				"eventName": "initData",
+				"executionType": 1
+			}
+		],
+		"entityName": "",
+		"eventsType": "viewContainerEventType"
+	}
+]

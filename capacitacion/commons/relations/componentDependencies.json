@@ -1,0 +1,141 @@
+{
+	"CompositeForms": {
+	},
+	"Entities": {
+		"EN_CALCULAAR_667": {
+			"labels": [
+			]
+		},
+		"EN_CUENTADTO_152": {
+			"labels": [
+			]
+		},
+		"EN_CUENTAORI_638": {
+			"labels": [
+			]
+		},
+		"EN_PERSONAZC_109": {
+			"labels": [
+			]
+		}
+	},
+	"Forms": {
+		"T_INTRDBJBMNJJN_624": {
+			"blis": [
+			],
+			"entities": {
+				"EN_CALCULAAR_667": [
+					"AT33_RESULTAA667",
+					"AT68_NUMERO11667",
+					"AT85_NUMERO22667"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_INTRD_LIMPIARFO_15852",
+				"LBL_INTRD_NMERO1AHE_59061",
+				"LBL_INTRD_NUMERO2WJ_44201",
+				"LBL_INTRD_RESULTADO_45139",
+				"LBL_INTRD_SUMARMOSY_40608"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_INTRDPPDYWPWD_302": {
+			"blis": [
+			],
+			"entities": {
+				"EN_CUENTADTO_152": [
+					"AT33_NUMEROTC152",
+					"AT40_SALDODPR152"
+				],
+				"EN_CUENTAORI_638": [
+					"AT18_VALORAEE638",
+					"AT49_SALDOGMV638",
+					"AT84_NUMEROAE638"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_INTRD_CUENTADSN_58287",
+				"LBL_INTRD_CUENTAONR_42127",
+				"LBL_INTRD_NMEROCUTE_62065",
+				"LBL_INTRD_SALDODIOS_85936",
+				"LBL_INTRD_TRANSFERI_48304",
+				"LBL_INTRD_VALORATRR_40149"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_INTRDVMBKAFQB_483": {
+			"blis": [
+			],
+			"entities": {
+				"EN_PERSONAZC_109": [
+					"AT29_NOMBREOT109",
+					"AT49_NOMBREEF109",
+					"AT80_APELLIDD109"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_INTRD_APELLIDOO_88450",
+				"LBL_INTRD_LIMPIARFO_15852",
+				"LBL_INTRD_NOMBRECLM_40637",
+				"LBL_INTRD_NOMBREGVS_96703",
+				"LBL_INTRD_OKXUQNLYH_81906"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_INTRDZMXWQBEC_647": {
+			"blis": [
+			],
+			"entities": {
+				"EN_PERSONAZC_109": [
+					"AT10_ESTADOIC109",
+					"AT70_ACTIVIAD109",
+					"AT97_ESTADOCT109"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_INTRD_ACTIVIDAL_55280",
+				"LBL_INTRD_ESTADOCIV_38198",
+				"LBL_INTRD_RESTAURAA_94818"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
+	},
+	"Queries": {
+	}
+}

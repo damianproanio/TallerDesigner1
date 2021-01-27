@@ -1,0 +1,122 @@
+{
+	"APP_CALCULADRAA_405": {
+		"externalModules": {
+		},
+		"forms": {
+			"INTRD": [
+				{
+					"generated": 2,
+					"moduleId": "INTRD",
+					"name": "Calculadora",
+					"subModuleId": "OPRCN",
+					"taskId": "T_INTRDBJBMNJJN_624",
+					"type": "Simple form"
+				}
+			]
+		},
+		"generate": {
+			"categoryName": "Cobiscorp",
+			"customEventImpl": "Custom",
+			"customEventImplPath": "{projectPath}\\build",
+			"displayName": "Calculadora",
+			"mode": "Development",
+			"type": "HTML5"
+		},
+		"id": "APP_CALCULADRAA_405",
+		"mainPortletTaskId": "T_INTRDBJBMNJJN_624",
+		"modules": [
+			"INTRD"
+		],
+		"name": "Calculadora"
+	},
+	"APP_ESTADOCIVVI_572": {
+		"externalModules": {
+		},
+		"forms": {
+			"INTRD": [
+				{
+					"generated": 2,
+					"moduleId": "INTRD",
+					"name": "FormEstadoCivil",
+					"subModuleId": "CMBOS",
+					"taskId": "T_INTRDZMXWQBEC_647",
+					"type": "Simple form"
+				}
+			]
+		},
+		"generate": {
+			"categoryName": "Cobiscorp",
+			"customEventImpl": "Custom",
+			"customEventImplPath": "{projectPath}\\build",
+			"displayName": "EstadoCivil",
+			"mode": "Development",
+			"type": "HTML5"
+		},
+		"id": "APP_ESTADOCIVVI_572",
+		"mainPortletTaskId": "T_INTRDZMXWQBEC_647",
+		"modules": [
+			"INTRD"
+		],
+		"name": "EstadoCivil"
+	},
+	"APP_EVENTOSCIET_620": {
+		"externalModules": {
+		},
+		"forms": {
+			"INTRD": [
+				{
+					"generated": 0,
+					"moduleId": "INTRD",
+					"name": "EventosCliente",
+					"subModuleId": "FRMLR",
+					"taskId": "T_INTRDVMBKAFQB_483",
+					"type": "Simple form"
+				}
+			]
+		},
+		"generate": {
+			"categoryName": "Cobiscorp",
+			"customEventImpl": "Custom",
+			"customEventImplPath": "{projectPath}\\build",
+			"displayName": "EventosCliente",
+			"mode": "Development",
+			"type": "HTML5"
+		},
+		"id": "APP_EVENTOSCIET_620",
+		"mainPortletTaskId": "T_INTRDVMBKAFQB_483",
+		"modules": [
+			"INTRD"
+		],
+		"name": "EventosCliente"
+	},
+	"APP_TRANSFEREII_754": {
+		"externalModules": {
+		},
+		"forms": {
+			"INTRD": [
+				{
+					"generated": 2,
+					"moduleId": "INTRD",
+					"name": "FormTransferencia",
+					"subModuleId": "FRMCN",
+					"taskId": "T_INTRDPPDYWPWD_302",
+					"type": "Simple form"
+				}
+			]
+		},
+		"generate": {
+			"categoryName": "Cobiscorp",
+			"customEventImpl": "Custom",
+			"customEventImplPath": "{projectPath}\\build",
+			"displayName": "Transferencia",
+			"mode": "Development",
+			"type": "HTML5"
+		},
+		"id": "APP_TRANSFEREII_754",
+		"mainPortletTaskId": "T_INTRDPPDYWPWD_302",
+		"modules": [
+			"INTRD"
+		],
+		"name": "Transferencia"
+	}
+}

@@ -1,0 +1,68 @@
+{
+	"CMBOS": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_INTRDZMXWQBEC_647": {
+				"name": "FormEstadoCivil"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
+	},
+	"Entities": {
+		"EN_CALCULAAR_667": {
+			"name": "Calculadora"
+		},
+		"EN_CUENTADTO_152": {
+			"name": "CuentaDestino"
+		},
+		"EN_CUENTAORI_638": {
+			"name": "CuentaOrigen"
+		},
+		"EN_PERSONAZC_109": {
+			"name": "Persona"
+		}
+	},
+	"FRMCN": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_INTRDPPDYWPWD_302": {
+				"name": "FormTransferencia"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
+	},
+	"FRMLR": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_INTRDVMBKAFQB_483": {
+				"name": "EventosCliente"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
+	},
+	"OPRCN": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_INTRDBJBMNJJN_624": {
+				"name": "Calculadora"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
+	}
+}

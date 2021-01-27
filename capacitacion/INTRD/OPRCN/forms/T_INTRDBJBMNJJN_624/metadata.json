@@ -1,0 +1,12 @@
+{
+	"entities": [
+		{
+			"entityId": "EN_CALCULAAR_667",
+			"isContextEntity": null,
+			"moduleId": "INTRD",
+			"related": false
+		}
+	],
+	"queries": [
+	]
+}

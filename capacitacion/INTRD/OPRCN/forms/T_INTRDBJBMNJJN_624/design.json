@@ -1,0 +1,351 @@
+{
+	"autoCrudStr": "F",
+	"cobisPattern": "None",
+	"cobisPatternId": 0,
+	"commands": [
+	],
+	"customEvents": [
+	],
+	"customizationLayer": 0,
+	"customizationLayerDescription": "ECU",
+	"graphicSupportStr": "F",
+	"header": null,
+	"id": {
+		"moduleId": "INTRD",
+		"subModuleId": "OPRCN",
+		"taskId": "T_INTRDBJBMNJJN_624",
+		"version": "1.0.0"
+	},
+	"isCustomized": false,
+	"isImported": false,
+	"mainViewContainerId": "VC_CALCULADOA_920624",
+	"modeEnabled": 4095,
+	"name": {
+		"$ref": "../../../../INTRD/relations/componentKeys.json#/OPRCN/Forms/T_INTRDBJBMNJJN_624/name"
+	},
+	"setFocus": false,
+	"tempSaveStr": "F",
+	"viewContainers": [
+		{
+			"breadcrumbs": "Automatic",
+			"collapsedStr": "F",
+			"colSpan": 1,
+			"columnsNum": 1,
+			"componentStyle": null,
+			"customEvents": [
+			],
+			"customizationLayer": 0,
+			"customizationLayerDescription": "ECU",
+			"enabled": 4095,
+			"id": {
+				"moduleId": "INTRD",
+				"subModuleId": "OPRCN",
+				"taskId": "T_INTRDBJBMNJJN_624",
+				"taskVersion": "1.0.0",
+				"viewContainerId": "VC_CALCULADOA_920624"
+			},
+			"isCustomized": false,
+			"layoutType": "Group",
+			"name": "Calculadora",
+			"options": 0,
+			"responsiveLayouts": null,
+			"responsivity": false,
+			"style": null,
+			"view": {
+				"groups": [
+					{
+						"collapsedStr": "F",
+						"colSpan": 1,
+						"columnsNum": 3,
+						"componentStyle": null,
+						"customEvents": [
+						],
+						"enabled": 4095,
+						"entity": {
+							"$ref": "../../../../INTRD/entities/EN_CALCULAAR_667.json#"
+						},
+						"eventType": 0,
+						"groupId": "G_CALCULADDA_926777",
+						"htmlSection": "F",
+						"independentValidation": "F",
+						"isCustomized": false,
+						"layoutType": "Group",
+						"name": "Group1416",
+						"order": 1,
+						"orientation": "V",
+						"responsiveLayouts": null,
+						"responsivity": false,
+						"style": null,
+						"visible": 4095,
+						"visualAttributes": [
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../INTRD/entities/EN_CALCULAAR_667.json#/attributes/AT85_NUMERO22667"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../INTRD/assets/languages/INTRD.json#/INTRD/LBL/LBL_INTRD_NUMERO2WJ_44201"
+									},
+									"labelId": "LBL_INTRD_NUMERO2WJ_44201",
+									"moduleId": "INTRD"
+								},
+								"maxRecords": null,
+								"name": "numero2",
+								"options": 0,
+								"order": 2,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_1972MYNKVWFTOKS_769777",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../INTRD/entities/EN_CALCULAAR_667.json#/attributes/AT68_NUMERO11667"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../INTRD/assets/languages/INTRD.json#/INTRD/LBL/LBL_INTRD_NMERO1AHE_59061"
+									},
+									"labelId": "LBL_INTRD_NMERO1AHE_59061",
+									"moduleId": "INTRD"
+								},
+								"maxRecords": null,
+								"name": "numero1",
+								"options": 0,
+								"order": 1,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_6084XSZROHWTRZA_636777",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../INTRD/entities/EN_CALCULAAR_667.json#/attributes/AT33_RESULTAA667"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 2,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../INTRD/assets/languages/INTRD.json#/INTRD/LBL/LBL_INTRD_RESULTADO_45139"
+									},
+									"labelId": "LBL_INTRD_RESULTADO_45139",
+									"moduleId": "INTRD"
+								},
+								"maxRecords": null,
+								"name": "resultado",
+								"options": 0,
+								"order": 4,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_6427YZPDKYPMWHJ_455777",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+									{
+										"customEventId": "CEVA_010VA_VABUTTONDLBRNDI_708777_122",
+										"customizationLayer": 0,
+										"customizationLayerDescription": "ECU",
+										"enabled": "T",
+										"eventActions": [
+										],
+										"executionType": 1,
+										"filter": null,
+										"isEnabled": true,
+										"visualAttributeEventType": {
+											"availableExecutionType": 7,
+											"description": "Permite personalizar la acci\u00f3n a ejecutar de un command o de un ActionControl",
+											"eventId": 10,
+											"name": "ExecuteCommand"
+										}
+									}
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"entityQuery": null,
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../INTRD/assets/languages/INTRD.json#/INTRD/LBL/LBL_INTRD_SUMARMOSY_40608"
+									},
+									"labelId": "LBL_INTRD_SUMARMOSY_40608",
+									"moduleId": "INTRD"
+								},
+								"maxRecords": null,
+								"name": "VA_VABUTTONDLBRNDI_708777",
+								"options": 0,
+								"order": 3,
+								"queryModule": null,
+								"queryVersion": null,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"userControl": {
+									"type": "A",
+									"userControlId": "Button"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_VABUTTONDLBRNDI_708777",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+									{
+										"customEventId": "CEVA_010VA_VABUTTONXLPXSKE_391777_590",
+										"customizationLayer": 0,
+										"customizationLayerDescription": "ECU",
+										"enabled": "T",
+										"eventActions": [
+										],
+										"executionType": 1,
+										"filter": null,
+										"isEnabled": true,
+										"visualAttributeEventType": {
+											"availableExecutionType": 7,
+											"description": "Permite personalizar la acci\u00f3n a ejecutar de un command o de un ActionControl",
+											"eventId": 10,
+											"name": "ExecuteCommand"
+										}
+									}
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"entityQuery": null,
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../INTRD/assets/languages/INTRD.json#/INTRD/LBL/LBL_INTRD_LIMPIARFO_15852"
+									},
+									"labelId": "LBL_INTRD_LIMPIARFO_15852",
+									"moduleId": "INTRD"
+								},
+								"maxRecords": null,
+								"name": "VA_VABUTTONXLPXSKE_391777",
+								"options": 0,
+								"order": 5,
+								"queryModule": null,
+								"queryVersion": null,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"userControl": {
+									"type": "A",
+									"userControlId": "Button"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_VABUTTONXLPXSKE_391777",
+								"width": null,
+								"widthComposite": "D"
+							}
+						]
+					}
+				],
+				"id": {
+					"version": "1.0.0",
+					"viewId": "VW_CALCULADRR_777"
+				},
+				"metadataVersion": "7.2.0.2024 BETA",
+				"modules": [
+					{
+						"moduleId": "INTRD"
+					}
+				],
+				"name": "View of Calculadora"
+			}
+		}
+	]
+}

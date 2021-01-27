@@ -1,0 +1,27 @@
+{
+	"INTRD": {
+		"LBL": {
+			"LBL_INTRD_ACTIVIDAL_55280": "Actividad Actual",
+			"LBL_INTRD_APELLIDOO_88450": "Apellido",
+			"LBL_INTRD_CUENTADSN_58287": "Cuenta Destino",
+			"LBL_INTRD_CUENTAONR_42127": "Cuenta Origen",
+			"LBL_INTRD_ESTADOCIV_38198": "Estado Civil",
+			"LBL_INTRD_LIMPIARFO_15852": "Limpiar",
+			"LBL_INTRD_NMERO1AHE_59061": "N\u00famero 1",
+			"LBL_INTRD_NMERO2UHD_91469": "N\u00famero 2",
+			"LBL_INTRD_NMEROCUTE_62065": "N\u00famero de Cuenta",
+			"LBL_INTRD_NOMBRECLM_40637": "Nombre Completo",
+			"LBL_INTRD_NOMBREGVS_96703": "Nombre",
+			"LBL_INTRD_NUMERO2WJ_44201": "Numero 2",
+			"LBL_INTRD_OKXUQNLYH_81906": "OK",
+			"LBL_INTRD_RESTAURAA_94818": "Restaurar",
+			"LBL_INTRD_RESULTADO_45139": "Resultado",
+			"LBL_INTRD_SALDODIOS_85936": "Saldo Disponible",
+			"LBL_INTRD_SUMARMOSY_40608": "Sumar",
+			"LBL_INTRD_TRANSFERI_48304": "Transferir",
+			"LBL_INTRD_VALORATRR_40149": "Valor a Transferir"
+		},
+		"MSG": {
+		}
+	}
+}
